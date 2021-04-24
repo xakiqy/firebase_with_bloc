@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49847171414",
+    "project_id": "fir-withbloc",
+    "storage_bucket": "fir-withbloc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49847171414:android:4f575f5b624becaa043ef7",
+        "android_client_info": {
+          "package_name": "com.google_sign_in_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49847171414-i6824li7fve4ml4mcn8nb7r91epe7ucs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWAJEIdvfFe503yjtpxMaCE3dPcTzq0g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49847171414-i6824li7fve4ml4mcn8nb7r91epe7ucs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
