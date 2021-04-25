@@ -22,7 +22,11 @@ environment:
 
 dependencies:
   firebase_core: ^1.0.4
-
+  firebase_auth: ^1.1.1
+  flutter_bloc: ^7.0.0
+  equatable: ^2.0.0
+  flutter_signin_button: ^2.0.0
+  google_sign_in: ^5.0.2
   flutter:
     sdk: flutter
 
